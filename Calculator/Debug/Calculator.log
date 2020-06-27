@@ -1,0 +1,107 @@
+﻿  Calculator.cpp
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(6,20): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(6,44): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(6,44): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(6,32): error C2146: 语法错误: 缺少“;”(在标识符“getLastInput”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(7,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(7,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(11,23): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(13,2): error C2065: “m_leftExpression”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(14,2): error C2065: “m_leftTerm”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(15,2): error C2065: “m_actions”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(18,29): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(18,30): error C2065: “ActionType”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(18,41): error C2146: 语法错误: 缺少“)”(在标识符“action”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(18,54): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(18,54): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(24,24): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(24,25): error C2065: “ActionType”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(24,36): error C2146: 语法错误: 缺少“)”(在标识符“action”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(25,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(25,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(29,30): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(29,31): error C2065: “ActionType”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(29,42): error C2146: 语法错误: 缺少“)”(在标识符“action”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(30,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(30,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(34,24): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(34,52): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(34,52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(34,36): error C2146: 语法错误: 缺少“;”(在标识符“getLastOperation”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(35,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(35,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(43,36): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(44,1): error C2270: “getCurrentResult”: 非成员函数上不允许修饰符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(45,9): error C2065: “m_leftExpression”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(45,39): error C2065: “m_leftExpression”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(45,69): error C2065: “m_leftTerm”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(48,26): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(48,39): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(48,39): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(50,27): error C2653: “Calculator”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(50,27): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(50,37): error C2082: 形参“Action”的重定义
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(50,27): error C2146: 语法错误: 缺少“;”(在标识符“lastInput”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(50,27): error C2065: “lastInput”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(50,39): error C3861: “getLastInput”: 找不到标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(51,6): error C2065: “input”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(51,44): error C2825: 'ActionType': 当后面跟“::”时必须为类或命名空间
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(51,38): error C2510: “ActionType”:“::”的左边必须是类/结构/联合
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(51,44): error C2065: “Number”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(53,7): error C2065: “lastInput”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(53,49): error C2825: 'ActionType': 当后面跟“::”时必须为类或命名空间
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(53,43): error C2510: “ActionType”:“::”的左边必须是类/结构/联合
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(53,49): error C2065: “Number”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(55,15): error C2146: 语法错误: 缺少“;”(在标识符“lastOperation”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(55,15): error C2065: “lastOperation”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(55,31): error C3861: “getLastOperation”: 找不到标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(56,12): error C2065: “lastOperation”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(57,4): error C2050: switch 表达式不是整型
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(58,25): error C2825: 'ActionType': 当后面跟“::”时必须为类或命名空间
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(58,21): error C2510: “ActionType”:“::”的左边必须是类/结构/联合
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(58,25): error C2065: “Plus”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(59,22): error C2065: “input”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(59,9): error C3861: “isExpression”: 找不到标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(59,43): error C2065: “input”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(59,81): error C2825: 'ActionType': 当后面跟“::”时必须为类或命名空间
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(59,75): error C2510: “ActionType”:“::”的左边必须是类/结构/联合
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(59,81): error C2065: “Equals”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(61,6): error C2065: “m_leftExpression”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(61,27): error C2065: “lastInput”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(62,6): error C2065: “m_leftTerm”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(64,21): error C2065: “input”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(64,14): error C3861: “isTerm”: 找不到标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(66,6): error C2065: “m_leftTerm”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(66,21): error C2065: “lastInput”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(69,29): error C2825: 'ActionType': 当后面跟“::”时必须为类或命名空间
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(69,21): error C2510: “ActionType”:“::”的左边必须是类/结构/联合
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(69,29): error C2065: “Multiply”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(70,22): error C2065: “input”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(70,9): error C3861: “isExpression”: 找不到标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(70,43): error C2065: “input”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(70,81): error C2825: 'ActionType': 当后面跟“::”时必须为类或命名空间
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(70,75): error C2510: “ActionType”:“::”的左边必须是类/结构/联合
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(70,81): error C2065: “Equals”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(72,6): error C2065: “m_leftExpression”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(72,27): error C2065: “m_leftTerm”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(72,51): error C2065: “lastInput”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(73,6): error C2065: “m_leftTerm”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(75,27): error C2825: 'ActionType': 当后面跟“::”时必须为类或命名空间
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(75,21): error C2510: “ActionType”:“::”的左边必须是类/结构/联合
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(75,27): error C2065: “Divide”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(76,22): error C2065: “input”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(76,9): error C3861: “isExpression”: 找不到标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(76,43): error C2065: “input”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(76,81): error C2825: 'ActionType': 当后面跟“::”时必须为类或命名空间
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(76,75): error C2510: “ActionType”:“::”的左边必须是类/结构/联合
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(76,81): error C2065: “Equals”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(78,10): error C2065: “lastInput”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(79,7): error C2065: “CalculatorException”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(79,27): error C2146: 语法错误: 缺少“;”(在标识符“divByZeroExcepton”的前面)
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(80,57): error C2653: “CalculatorException”: 不是类或命名空间名称
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(80,44): error C2065: “DividedByZero”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(79,27): error C3861: “divByZeroExcepton”: 找不到标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(81,13): error C2065: “divByZeroExcepton”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(85,7): error C2065: “m_leftExpression”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(85,28): error C2065: “m_leftTerm”: 未声明的标识符
+D:\Users\tianb\Desktop\学习文件\0_大二(下)\C＋＋实训\Calculator\Calculator\Calculator.cpp(85,38): fatal error C1003: 错误计数超过 100；正在停止编译
